@@ -1,6 +1,17 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Shreyash Nangnurwar </p>
+logo: /assets/img/shreyash.jpg
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/shreyashsn/">LinkedIn</a> |
+  <a href="https://github.com/ShreyashNangnurwar">GitHub</a>
+  
+  <br>   
+    Software developer with 7+ years experience in design and developing softwares.
+    C | C++ | Python | Storage | Problem Solving | Loves getting things done
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
